@@ -1,0 +1,5 @@
+database:
+  url: postgresql://valebelladmin:ckq4Iks7StpDvodmflHQAgXfKuMV@valebell-7eazxc.postgres.database.azure.com:5432/valebell?sslmode=require
+  pool: 10
+cache:
+  ttl_seconds: 300
